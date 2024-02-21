@@ -1,6 +1,8 @@
 # scripts
 This repo contains scripts written in different languages and not in Python.
 
+#These scripts fetch employee information from Azure portal.
+
 #To execute these powershell scripts, you MUST install AD package. 
 Open a command prompt and type powershell. 
 
